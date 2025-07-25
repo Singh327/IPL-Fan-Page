@@ -7,7 +7,7 @@ const PlayerCard = ({ player }) => {
   return (
     <div
       className={`rounded-xl shadow-lg p-4 text-center hover:scale-105 transition-transform duration-300 ${
-        darkMode ? "bg-[#3c175b] text-gray-200" : "bg-white"
+        darkMode ? "bg-[#371454] text-gray-200" : "bg-white"
       }`}
     >
       <img
