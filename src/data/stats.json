@@ -1,0 +1,58 @@
+{
+  "teamStats": {
+    "matchesPlayed": 228,
+    "matchesWon": 133,
+    "matchesLost": 90,
+    "winningPercentage": "58.33%",
+    "iplTitles": 5,
+    "finalsPlayed": 10,
+    "highestTeamTotal": 246,
+    "lowestTeamTotal": 79
+  },
+  "topRunScorers": [
+    { "name": "Ruturaj Gaikwad", "runs": 590 },
+    { "name": "MS Dhoni", "runs": 450 },
+    { "name": "Shivam Dube", "runs": 410 }
+  ],
+   "battingStats": [
+    {
+      "label": "Most Runs",
+      "player": "Suresh Raina",
+      "value": 5528
+    },
+    {
+      "label": "Most Sixes",
+      "player": "MS Dhoni",
+      "value": 239
+    },
+    {
+      "label": "Fastest Fifty",
+      "player": "Sam Curran",
+      "value": "15 balls"
+    }
+  ],
+  "topWicketTakers": [
+    { "name": "Deepak Chahar", "wickets": 17 },
+    { "name": "Ravindra Jadeja", "wickets": 15 },
+    { "name": "Matheesha Pathirana", "wickets": 13 }
+  ],
+  "bowlingStats": [
+    {
+      "label": "Most Wickets",
+      "player": "Dwayne Bravo",
+      "value": 154
+    },
+    {
+      "label": "Best Bowling Figures",
+      "player": "L. Balaji",
+      "value": "5/24"
+    }
+  ],
+  "fieldingStats": [
+    {
+      "label": "Most Catches",
+      "player": "Faf du Plessis",
+      "value": 85
+    }
+  ]
+}

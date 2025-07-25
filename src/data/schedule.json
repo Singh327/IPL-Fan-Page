@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "date": "2025-03-23",
+    "time": "7:30 PM IST",
+    "opponent": "Mumbai Indians",
+    "venue": "Wankhede Stadium, Mumbai",
+    "result": "Won by 7 wickets"
+  },
+  {
+    "id": 2,
+    "date": "2025-03-29",
+    "time": "7:30 PM IST",
+    "opponent": "Royal Challengers Bangalore",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "result": "Lost by 5 runs"
+  },
+  {
+    "id": 3,
+    "date": "2025-04-03",
+    "time": "7:30 PM IST",
+    "opponent": "Delhi Capitals",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "result": "Upcoming"
+  },
+  {
+    "id": 4,
+    "date": "2025-04-08",
+    "time": "7:30 PM IST",
+    "opponent": "Kolkata Knight Riders",
+    "venue": "Eden Gardens, Kolkata",
+    "result": "Upcoming"
+  },
+  {
+    "id": 5,
+    "date": "2025-04-14",
+    "time": "3:30 PM IST",
+    "opponent": "Rajasthan Royals",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "result": "Upcoming"
+  },
+  {
+    "id": 6,
+    "date": "2025-04-20",
+    "time": "7:30 PM IST",
+    "opponent": "Sunrisers Hyderabad",
+    "venue": "Rajiv Gandhi Intl. Stadium, Hyderabad",
+    "result": "Upcoming"
+  },
+  {
+    "id": 7,
+    "date": "2025-04-25",
+    "time": "7:30 PM IST",
+    "opponent": "Punjab Kings",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "result": "Upcoming"
+  },
+  {
+    "id": 8,
+    "date": "2025-04-30",
+    "time": "7:30 PM IST",
+    "opponent": "Lucknow Super Giants",
+    "venue": "BRSABV Ekana Stadium, Lucknow",
+    "result": "Upcoming"
+  },
+  {
+    "id": 9,
+    "date": "2025-05-05",
+    "time": "3:30 PM IST",
+    "opponent": "Gujarat Titans",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "result": "Upcoming"
+  },
+  {
+    "id": 10,
+    "date": "2025-05-10",
+    "time": "7:30 PM IST",
+    "opponent": "Mumbai Indians",
+    "venue": "MA Chidambaram Stadium, Chennai",
+    "result": "Upcoming"
+  }
+]

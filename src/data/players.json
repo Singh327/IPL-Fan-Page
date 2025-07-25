@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "MS Dhoni",
+    "role": "Wicket-keeper Batsman",
+    "image": "/dhoni.avif",
+    "nationality": "India",
+    "runs": 5082,
+    "matches": 250
+  },
+  {
+    "id": 2,
+    "name": "Ruturaj Gaikwad",
+    "role": "Batsman",
+    "image": "/ruturaj.avif",
+    "nationality": "India",
+    "runs": 1797,
+    "matches": 52
+  },
+  {
+    "id": 3,
+    "name": "Devon Conway",
+    "role": "Batsman",
+    "image": "/devon.png",
+    "nationality": "New Zealand",
+    "runs": 924,
+    "matches": 23
+  },
+  {
+    "id": 4,
+    "name": "Ravindra Jadeja",
+    "role": "All-Rounder",
+    "image": "/jadeja.avif",
+    "nationality": "India",
+    "runs": 2692,
+    "matches": 226
+  },
+  {
+    "id": 5,
+    "name": "Deepak Chahar",
+    "role": "Bowler",
+    "image": "/chahar.png",
+    "nationality": "India",
+    "runs": 80,
+    "matches": 73
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "role": "All-Rounder",
+    "image": "/benstokes.png",
+    "nationality": "England",
+    "runs": 920,
+    "matches": 45
+  },
+  {
+    "id": 7,
+    "name": "Ajinkya Rahane",
+    "role": "Batsman",
+    "image": "/rahane.jpeg",
+    "nationality": "India",
+    "runs": 4519,
+    "matches": 172
+  },
+  {
+    "id": 8,
+    "name": "Maheesh Theekshana",
+    "role": "Bowler",
+    "image": "/maheesh.png",
+    "nationality": "Sri Lanka",
+    "runs": 10,
+    "matches": 22
+  },
+  {
+    "id": 9,
+    "name": "Shivam Dube",
+    "role": "All-Rounder",
+    "image": "/Dube.webp",
+    "nationality": "India",
+    "runs": 1104,
+    "matches": 51
+  },
+  {
+    "id": 10,
+    "name": "Matheesha Pathirana",
+    "role": "Bowler",
+    "image": "/pathirana.jpeg",
+    "nationality": "Sri Lanka",
+    "runs": 5,
+    "matches": 16
+  },
+  {
+    "id": 11,
+    "name": "Moeen Ali",
+    "role": "All-Rounder",
+    "image": "/ali.jpeg",
+    "nationality": "England",
+    "runs": 1033,
+    "matches": 59
+  },
+  {
+    "id": 12,
+    "name": "Tushar Deshpande",
+    "role": "Bowler",
+    "image": "/tushar.jpeg",
+    "nationality": "India",
+    "runs": 25,
+    "matches": 23
+  },
+  {
+    "id": 13,
+    "name": "Ambati Rayudu",
+    "role": "Batsman",
+    "image": "/rayadu.avif",
+    "nationality": "India",
+    "runs": 4348,
+    "matches": 204
+  },
+  {
+    "id": 14,
+    "name": "Mitchell Santner",
+    "role": "All-Rounder",
+    "image": "/Santner.jpg",
+    "nationality": "New Zealand",
+    "runs": 124,
+    "matches": 15
+  },
+  {
+    "id": 15,
+    "name": "Simarjeet Singh",
+    "role": "Fast Bowler",
+    "image": "/singh.jpeg",
+    "nationality": "India",
+    "runs": 3,
+    "matches": 8
+  }
+]
+  

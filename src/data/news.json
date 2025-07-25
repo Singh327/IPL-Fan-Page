@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "MS Dhoni likely to play one more season in IPL",
+    "image": "/news1.webp",
+    "date": "2025-07-18",
+    "description": "The CSK skipper hinted at a possible return in the next IPL, delighting fans across the globe."
+  },
+  {
+    "id": 2,
+    "title": "Ruturaj Gaikwad to lead India A in Zimbabwe tour",
+    "image": "/news2.webp",
+    "date": "2025-07-12",
+    "description": "CSK opener Ruturaj Gaikwad will captain the India A team for the upcoming Zimbabwe tour."
+  },
+  {
+    "id": 3,
+    "title": "Jadeja's all-round show seals win for CSK",
+    "image": "/news3.webp",
+    "date": "2025-07-10",
+    "description": "Ravindra Jadeja picked 3 wickets and scored a quick 40* to ensure a big win against DC."
+  }
+]
