@@ -46,7 +46,7 @@ const Home = () => {
         </p>
 
         <a
-          href="/schedule"
+          href="/Schedule"
           className={`inline-flex items-center gap-2 px-6 py-3 rounded-lg font-semibold transition duration-300 group text-lg shadow-md ${
             darkMode
               ? "bg-violet-600 text-white hover:bg-violet-800"
